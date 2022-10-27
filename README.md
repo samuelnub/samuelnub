@@ -1,8 +1,4 @@
-- 👋 waving hand emoji
-- 👀 oh boy what am i looking at
-- 🌱 plant
-- 💞️ friendsh ip
-- 📫 bouk
+Hello there!
 
 <!---
 samuelnub/samuelnub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
